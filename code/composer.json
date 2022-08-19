@@ -1,0 +1,23 @@
+{
+  "name": "trocafone/code",
+  "description": "Trocafone interview challenge",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mathias Soto",
+      "email": "soto.mathias@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "src/"
+    }
+  }
+}
